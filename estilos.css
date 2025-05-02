@@ -9,7 +9,7 @@ header{
 nav a{
     color: black;
     text-decoration: none;
-    margin: 0 15 px;
+    margin: 0 15px;
     font-weight: bold;  
 }
 nav a:hover{
@@ -22,7 +22,7 @@ nav a:hover{
     padding: 15px;
     background-color: #f4f4f4;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgb(o, 0, 130.1);
+    box-shadow: 0 0 10px rgb(0, 0, 130);
 }
 .contenedor h2{
     color: #333;
